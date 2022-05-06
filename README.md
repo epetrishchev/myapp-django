@@ -1,1 +1,1 @@
-# physical-django
+# myapp-django
